@@ -7,3 +7,18 @@
 #summary{
   color: brown;
 }
+
+div{
+  text-align:center;
+}
+
+img{
+  height:25%;
+  width:25%;
+  display: block;
+  margin:auto;
+}
+
+body{
+  background-color: gray;
+}
